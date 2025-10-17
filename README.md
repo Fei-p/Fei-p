@@ -5,7 +5,7 @@ This page showcases my applied data projects. I use statistics and ML to solve r
 I’m pursuing an **M.S. in Statistics** at **the University of California, Davis** (with B.S. in Mathematics).  
 I build data projects in **statistical modeling**, **machine learning**, **web scraping**, and **NLP**—recently exploring **tokenization & embeddings** (incl. DNA-sequence applications).
 
-- 🔭 Current focus: benchmarking tokenizers/embeddings and evaluation pipelines  
+- 🔭 Current project: benchmarking tokenizers/embeddings and evaluation pipelines  
 - 📊 Interests: data science, robust modeling, reproducible analytics  
 - 💼 Open to: **Data Scientist / Data Analyst / Statistician** roles (full-time)
 
