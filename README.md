@@ -2,7 +2,7 @@
 
 This page showcases my applied data projects. I use statistics and ML to solve real-world problems and share what I learn! <br/>
 
-I’m pursuing an **M.S. in Statistics** at **the University of California, Davis** (with B.S. in Mathematics).  
+I’m a **M.S. in Statistics** graduate from **the University of California, Davis** (with B.S. in Mathematics).  
 I build data projects in **statistical modeling**, **machine learning**, **web scraping**, and **NLP**—recently exploring various **tokenization & embedding** methods.
 
 - 🔭 Current project: benchmarking tokenizers/embeddings and evaluation pipelines  
